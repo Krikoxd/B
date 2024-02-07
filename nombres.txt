@@ -2,3 +2,7 @@ nombres:
 jesus
 victor
 dany
+puto 
+el
+lo
+lea
