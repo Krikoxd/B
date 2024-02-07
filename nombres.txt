@@ -1,5 +1,4 @@
 nombres:
 jesus
-victor
-dany
-krillin
+victor manuel
+dany 
